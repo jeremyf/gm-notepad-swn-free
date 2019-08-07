@@ -1,0 +1,9 @@
+# One Roll Table for patron
+#	Basic Challenge of the Job {patron.basic-challenge-of-the-job}
+#	Complication to the Job {patron.complication-to-the-job}
+#	Main Countervailing Force {patron.main-countervailing-force}
+#	Patron Eagerness to Hire {patron.patron-eagerness-to-hire}
+#	Patron Trustworthiness {patron.patron-trustworthiness}
+#	Potential Non-Cash Rewards {patron.potential-non-cash-rewards}
+# Includes subtables:
+1	Basic Challenge of the Job:\t{patron.basic-challenge-of-the-job}\nComplication to the Job:\t{patron.complication-to-the-job}\nMain Countervailing Force:\t{patron.main-countervailing-force}\nPatron Eagerness to Hire:\t{patron.patron-eagerness-to-hire}\nPatron Trustworthiness:\t{patron.patron-trustworthiness}\nPotential Non-Cash Rewards:\t{patron.potential-non-cash-rewards}

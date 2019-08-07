@@ -1,0 +1,8 @@
+# One Role Entry for: wilderness-encounter (Weather and Lighting)
+INDEX	Weather and Lighting
+1	Takes place in daylight and clear weather
+2	Daylight, but fog, mist, rain or the like
+3	Daylight, but harsh seasonal weather
+4	Night encounter, but clear weather
+5	Night, with rain or other obscuring effects
+6	Night, with terrible weather and wind

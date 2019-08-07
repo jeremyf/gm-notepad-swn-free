@@ -1,0 +1,9 @@
+# One Roll Table for wilderness-encounter
+#	Basic Nature of the Encounter {wilderness-encounter.basic-nature-of-the-encounter}
+#	Initial Encounter Range {wilderness-encounter.initial-encounter-range}
+#	Specific Nearby Feature of Relevance {wilderness-encounter.specific-nearby-feature-of-relevance}
+#	Types of Friendly Creatures {wilderness-encounter.types-of-friendly-creatures}
+#	Types of Hostile Creatures {wilderness-encounter.types-of-hostile-creatures}
+#	Weather and Lighting {wilderness-encounter.weather-and-lighting}
+# Includes subtables:
+1	Basic Nature of the Encounter:\t{wilderness-encounter.basic-nature-of-the-encounter}\nInitial Encounter Range:\t{wilderness-encounter.initial-encounter-range}\nSpecific Nearby Feature of Relevance:\t{wilderness-encounter.specific-nearby-feature-of-relevance}\nTypes of Friendly Creatures:\t{wilderness-encounter.types-of-friendly-creatures}\nTypes of Hostile Creatures:\t{wilderness-encounter.types-of-hostile-creatures}\nWeather and Lighting:\t{wilderness-encounter.weather-and-lighting}

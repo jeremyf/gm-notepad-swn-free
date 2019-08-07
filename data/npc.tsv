@@ -1,0 +1,9 @@
+# One Roll Table for npc
+#	Age {npc.age}
+#	Most Obvious Character Trait {npc.most-obvious-character-trait}
+#	Their Background {npc.their-background}
+#	Their Biggest Problem {npc.their-biggest-problem}
+#	Their Greatest Desire {npc.their-greatest-desire}
+#	Their Role in Society {npc.their-role-in-society}
+# Includes subtables:
+1	Age:\t{npc.age}\nMost Obvious Character Trait:\t{npc.most-obvious-character-trait}\nTheir Background:\t{npc.their-background}\nTheir Biggest Problem:\t{npc.their-biggest-problem}\nTheir Greatest Desire:\t{npc.their-greatest-desire}\nTheir Role in Society:\t{npc.their-role-in-society}

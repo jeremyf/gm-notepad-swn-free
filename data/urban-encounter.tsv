@@ -1,0 +1,9 @@
+# One Roll Table for urban-encounter
+#	General Venue of the Event {urban-encounter.general-venue-of-the-event}
+#	Relevant Urban Features {urban-encounter.relevant-urban-features}
+#	What Antagonists are Involved? {urban-encounter.what-antagonists-are-involved}
+#	What’s the Conflict About? {urban-encounter.what-s-the-conflict-about}
+#	What’s the Nature of the Event? {urban-encounter.what-s-the-nature-of-the-event}
+#	Why are the PCs Involved? {urban-encounter.why-are-the-pcs-involved}
+# Includes subtables:
+1	General Venue of the Event:\t{urban-encounter.general-venue-of-the-event}\nRelevant Urban Features:\t{urban-encounter.relevant-urban-features}\nWhat Antagonists are Involved?:\t{urban-encounter.what-antagonists-are-involved}\nWhat’s the Conflict About?:\t{urban-encounter.what-s-the-conflict-about}\nWhat’s the Nature of the Event?:\t{urban-encounter.what-s-the-nature-of-the-event}\nWhy are the PCs Involved?:\t{urban-encounter.why-are-the-pcs-involved}
