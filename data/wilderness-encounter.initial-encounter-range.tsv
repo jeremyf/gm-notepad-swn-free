@@ -1,6 +1,6 @@
 # One Role Entry for: wilderness-encounter (Initial Encounter Range)
 INDEX	Initial Encounter Range
 1	Visible from a long distance away
-2	Noticed 1d4 hundred meters away
-3	Noticed only within 1d6 x 10 meters
+2	Noticed {1d4} hundred meters away (1d4 hundred meters away)
+3	Noticed only within {1d6*10} meters (1d6 x 10 meters)
 4	Noticed only when adjacent to the event

@@ -4,5 +4,5 @@ INDEX	Their Background
 2	Common laborers or cube workers
 3	Aspiring bourgeoise or upper class
 4	The elite of this society
-5	Minority or foreigners; reroll on 1d4
-6	Offworlders or exotics; reroll on 1d4
+5	Minority or foreigner part of {npc.their-background[d4]}
+6	Offworlder or exotic part of {npc.their-background[d4]}
