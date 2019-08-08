@@ -10,3 +10,15 @@ gm-notepad \
   --delimiter="\t" \
   --table_extension=".tsv"
 ```
+
+There are a lot of sub-tables in the data directory. The following tables are "containers" for either resolving a One Roll entry or for generating a tag.
+
+In `gm-notepad` type the following to see the a random result:
+
+```console
+{npc}
+{patron}
+{planetary-tag}
+{urban-encounter}
+{wilderness-encounter}
+```
