@@ -1,0 +1,3 @@
+--paths=./data/converted/
+--column_delimiter=\t
+--table_extension=.tsv
